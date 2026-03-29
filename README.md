@@ -67,5 +67,3 @@ The application will be available at `http://localhost:3000`.
 - **Enterprise Integration:** Secure API connectors for SAP, Oracle, and Salesforce.
 - **Advanced RBAC:** Fine-grained permissions for "Authorize Execution" actions.
 
----
-*Built with Google AI Studio Build*
